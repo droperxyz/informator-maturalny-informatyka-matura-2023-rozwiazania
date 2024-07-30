@@ -19,3 +19,5 @@ for i in range(len(ranges)):
             break
 
 print(longest)
+
+file.close()
