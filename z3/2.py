@@ -16,3 +16,5 @@ for line in file:
     ranges[range_len] += 1
 
 print(ranges.index(max(ranges)))
+
+file.close()
