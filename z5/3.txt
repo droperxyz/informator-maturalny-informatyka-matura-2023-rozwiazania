@@ -1,0 +1,2 @@
+Algorytm S1: Tak, algorytm jest algorytmem sortowania. Elementy, na podstawie sprawdzenia: tablica[i] < tablica[i-1] (element aktualny i poprzedni) są przesuwane w lewo, co ostatecznie doprowadza do posortowania tablicy.
+Alogrytm S2: Nie, 
