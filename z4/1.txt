@@ -1,0 +1,2 @@
+Minimalna: 0
+Maksymalna: (n-1)n / 2
